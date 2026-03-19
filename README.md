@@ -27,10 +27,7 @@ With a simple interface and smooth interactions, users can quickly add notes and
 
 ## 🖥️ Preview
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x500?text=Notes+App+Preview" width="100%" />
-</p>
-
+https://nafisatabassumnusrat.github.io/Notes-App-Simple-Interactive/
 ---
 
 ## 🛠 Tech Stack
